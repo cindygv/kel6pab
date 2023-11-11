@@ -36,7 +36,7 @@ const Kategori = ({ navigation }) => {
                 <Link href="/lomba">
                     <View style={{ alignItems: 'center' }}>
                         <Ionicons name="trophy-outline" size={40} color="black" />
-                        <Heading mb="$1">Lomba</Heading>
+                        <Heading mb="$1" size="null">Lomba</Heading>
                     </View>
                     </Link>
                 </TouchableOpacity>
